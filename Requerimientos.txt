@@ -5,8 +5,14 @@ REQUERIMIENTOS:
 1.2. El pacman debe comer las galletas
 1.3. El pacman debe aparecer de nuevo en un lugar aleatorio si un fantasma se lo come
 1.4. El pacman debe chocarse con las paredes del mundo
-1.5. El pacman debe comer fantasmas si se come la galleta grande
+1.5. Si el pacman se come la galleta grande, se pasa al modo especial del mundo
+1.6. El pacman debe llevar la cuenta de cuantas galletas se ha comido
 
-DEL FANTASMA
+2. DEL FANTASMA
 2.1. El fantasma debe perseguir al pacman
-2.2. 
+2.2. El fantasma debe huir si pacman se come la galleta grande
+2.3. El fantasma debe aparecer de nuevo en el centro del tablero si es comido
+2.4. 
+
+3. DEL MURO
+3.1 
