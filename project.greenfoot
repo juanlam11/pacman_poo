@@ -1,9 +1,13 @@
-#Greenfoot project file
-mainWindow.height=870
+#Greenfoot properties
+#Wed Feb 17 19:16:45 COT 2016
+class.Escenario.superclass=greenfoot.World
 mainWindow.width=1458
-mainWindow.x=-9
-mainWindow.y=-9
 package.numDependencies=0
-package.numTargets=0
+class.Escenario.image=board.jpg
 project.charset=UTF-8
-version=2.7.0
+version=2.8.0
+world.lastInstantiated=Escenario
+mainWindow.y=-9
+package.numTargets=0
+mainWindow.x=-9
+mainWindow.height=870
